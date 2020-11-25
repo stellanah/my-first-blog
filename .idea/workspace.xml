@@ -7,6 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="JupyterTrust" id="dd570a5c-b964-4513-a067-677ac6eba8b6" />
   <component name="ProjectId" id="1kjcQS1pNeGZq4aszwgUkcVm9vt" />
   <component name="ProjectViewState">
@@ -14,6 +22,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/settings.py" />
@@ -33,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606217425027</updated>
       <workItem from="1606217435540" duration="3525000" />
-      <workItem from="1606269655737" duration="485000" />
+      <workItem from="1606269655737" duration="1995000" />
     </task>
     <servers />
   </component>
